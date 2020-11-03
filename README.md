@@ -5,3 +5,5 @@ I created a project named website-awakeningkindness-org
 I created a bucket named awakeningkindness.org
 I set up a cname record in google domains but it’s not working
 I uploaded some test content to index.html
+
+  
