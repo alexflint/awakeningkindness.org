@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OAK | Organization for Awakening and Kindness</title>
+    <link>http://www.awakeningkindness.org/</link>
+    <description>Recent content on OAK | Organization for Awakening and Kindness</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://www.awakeningkindness.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Donate to OAK</title>
+      <link>http://www.awakeningkindness.org/donate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.awakeningkindness.org/donate/</guid>
+      <description>How You Can Help At this time, funding our budget is our biggest constraint.</description>
+    </item>
+    
+  </channel>
+</rss>
