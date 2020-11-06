@@ -3,7 +3,6 @@ title: "Donate to OAK"
 draft: false
 description : "Help to support OAK's mission"
 
-layout: donation
 ---
 # How You Can Help
 At this time, funding our budget is our biggest constraint. You can help OAK by donating directly to our operations budget for 2021. Be sure to specify the location that you wish to donate to (OAK)!
