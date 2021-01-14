@@ -15,6 +15,8 @@ teaser_image: "images/OAK_meditation.png" # https://www.pexels.com/search/produc
 ## Training
 At OAK, the two pillars of our training are *Awakening* – the ability to radically transform the mind – and *Responsibility* – the power to take clear positive action in the world.
 
+This is a test
+
 ## About
 Located in Berkeley, OAK is the California sister school of the [Monastic Academy for the Preservation of Life on Earth](https://www.monasticacademy.com/).
 
